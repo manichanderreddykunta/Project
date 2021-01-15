@@ -121,7 +121,7 @@ if($_SESSION["email"] =="")
                         </div>
                         <div class="item-info-product">
                             <h4>
-                                <a href="">' . $row['product_title'] . ' </a>
+                                <a href="">' . $row['product_title'] .' </a>
                             </h4>
 
                             <div class="product_price">
